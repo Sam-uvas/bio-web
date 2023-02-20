@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Labrada:ital,wght@1,800&display=swap');
+body {
+    font-size: 15pt;
+    background-color: blueviolet;
+    color:white;
+    text-align: center;
+    font-family: 'Labrada', serif;
+}
+<!---css--->
+.img{
+  width:15%;
+  boborder-radius: 100%;
+}
+.btn{
+  display: block;
+  color:blue;
+  padding:18px;
+  background-color: white;
+  color:blueviolet;
+  margin: 16px;
+  box-shadow: 10px 10px violet;
+  
+}
+p{
+  font-size: medium;
+  font-variant: small-caps;
+  
+}
+a{
+  text-decoration:none;
+  color:white;
+}
+
